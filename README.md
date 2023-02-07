@@ -1,4 +1,4 @@
 # QR Code Generator
 ### By Tyson Jones
 
-qr.tysonsstuff.com
+[qr.tysonsstuff.com](https://qr.tysonsstuff.com/)
